@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov  5 23:17:57 2023
+Sunshine Comparison Plot
 
-@author: Kinza Ijaz
+This program generates a line plot to compare the duration of bright sunshine in Scotland for the years 2021, 2022, and 2023. It uses Matplotlib for data visualization and presents the data as a line plot with data points for each month.
+
+Author: kinza Ijaz
+Date: [Sun Nov  5 23:17:57 2023]
+
 """
 
 import numpy as np
